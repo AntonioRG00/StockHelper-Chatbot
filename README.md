@@ -12,4 +12,4 @@ Is also dedicated to classifying the same 3 categories of pc componentes but wit
 
 ## StockHelper-Combined
 This project combines the others in one. It does not have navigation but has the same categories and subcategories than the last one.
-The ML4K part is in charge of translating the text into the desired tag, which is then passed to the aiml bot so that it returns an xml with the catalog information.
+The ML4K part is in charge of translating the text (input by user) into the desired tag, which is then passed to the aiml bot so that it returns an xml with the catalog information.
