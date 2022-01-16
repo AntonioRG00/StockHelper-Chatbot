@@ -3,7 +3,7 @@ This repository is about 3 chatbots made with AIML/ML4K.
 The chatbots will try to classify which pc components we are talking about and give a answer with data related
 
 ## StockHelper-ML4K
-This chatbot is made with ML4K and is dedicated to classifying 3 categories of pc components (Graphics card, Processor and RAM memory)
+This chatbot is made with ML4K and is dedicated to classifying 3 categories of pc components (Graphics card, Processor and RAM)
 
 ## StockHelper-AIML
 This chatbot is made with AIML on pandorabots **(Not compatible with AIML standard because it has html labels)**
