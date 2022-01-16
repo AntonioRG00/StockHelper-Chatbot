@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+   <category>
+      <pattern>*</pattern>
+      <template>NOT_FOUND</template>
+   </category>
+
+   <!-- Bloque de las tarjetas gráficas -->
+   <category>
+      <pattern>grafica_rendimiento</pattern>
+      <template>
+         <componentes>
+            <texto>Mostrando las gráficas de alto rendimiento</texto>
+            <descripcion>Gráficas de alto rendimiento</descripcion>
+            <componente>
+               <tipo>grafica</tipo>
+               <nombre>RTX 3060 8GB</nombre>
+               <precio>699,90€</precio>
+               <enlace>https://www.pccomponentes.com</enlace>
+            </componente>
+            <componente>
+               <tipo>grafica</tipo>
+               <nombre>RTX 3070ti 8GB</nombre>
+               <precio>1099,90€</precio>
+               <enlace>https://www.pccomponentes.com</enlace>
+            </componente>
+         </componentes>
+      </template>
+   </category>
+
+   <category>
+      <pattern>grafica_calidad</pattern>
+      <template>
+         <componentes>
+            <texto>Mostrando las gráficas calidad-precio</texto>
+            <descripcion>Gráficas en relación calidad-precio</descripcion>
+            <componente>
+               <tipo>grafica</tipo>
+               <nombre>GTX 1080ti 11GB</nombre>
+               <precio>450,90€</precio>
+               <enlace>https://www.pccomponentes.com</enlace>
+            </componente>
+            <componente>
+               <tipo>grafica</tipo>
+               <nombre>GTX 1060ti 11GB</nombre>
+               <precio>250,00€</precio>
+               <enlace>https://www.pccomponentes.com</enlace>
+            </componente>
+         </componentes>
+      </template>
+   </category>
+
+   <!-- Bloque de los procesadores -->
+   <category>
+      <pattern>procesador_rendimiento</pattern>
+      <template>
+         <componentes>
+            <texto>Mostrando los procesadores de alto rendimiento</texto>
+            <descripcion>Procesadores de alto rendimiento</descripcion>
+            <componente>
+               <tipo>procesador</tipo>
+               <nombre>AMD Ryzen 9 5900X 3.7 GHz</nombre>
+               <precio>564,89€</precio>
+               <enlace>https://www.pccomponentes.com</enlace>
+            </componente>
+            <componente>
+               <tipo>procesador</tipo>
+               <nombre>Intel Core i7-12700K 5.0 GHz</nombre>
+               <precio>447,39€</precio>
+               <enlace>https://www.pccomponentes.com</enlace>
+            </componente>
+         </componentes>
+      </template>
+   </category>
+
+   <category>
+      <pattern>procesador_calidad</pattern>
+      <template>
+         <componentes>
+            <texto>Mostrando los procesadores calidad-precio</texto>
+            <descripcion>Procesadores en relación calidad-precio</descripcion>
+            <componente>
+               <tipo>procesador</tipo>
+               <nombre>Intel Core i5-10400 2.90 GHz</nombre>
+               <precio>170,22€</precio>
+               <enlace>https://www.pccomponentes.com</enlace>
+            </componente>
+            <componente>
+               <tipo>procesador</tipo>
+               <nombre>AMD Ryzen 5 5600G 4.40GHz</nombre>
+               <precio>259,90€</precio>
+               <enlace>https://www.pccomponentes.com</enlace>
+            </componente>
+         </componentes>
+      </template>
+   </category>
+
+   <!-- Bloque de las memorias RAM -->
+   <category>
+      <pattern>ram_rendimiento</pattern>
+      <template>
+         <componentes>
+            <texto>Mostrando las memorias ram de alto rendimiento</texto>
+            <descripcion>Memorias RAM de alto rendimiento</descripcion>
+            <componente>
+               <tipo>ram</tipo>
+               <nombre>G.Skill Trident Z 2x16GB 3600 CL16</nombre>
+               <precio>207,88€</precio>
+               <enlace>https://www.pccomponentes.com</enlace>
+            </componente>
+            <componente>
+               <tipo>ram</tipo>
+               <nombre>G.Skill Trident Z 4x16GB 3600 CL16</nombre>
+               <precio>426,90€</precio>
+               <enlace>https://www.pccomponentes.com</enlace>
+            </componente>
+         </componentes>
+      </template>
+   </category>
+
+   <category>
+      <pattern>ram_calidad</pattern>
+      <template>
+         <componentes>
+            <texto>Mostrando las memorias ram calidad-precio</texto>
+            <descripcion>Memorias RAM en relación calidad-precio</descripcion>
+            <componente>
+               <tipo>ram</tipo>
+               <nombre>Corsair Vengeance 2x8GB 3200 CL16</nombre>
+               <precio>67,08€</precio>
+               <enlace>https://www.pccomponentes.com</enlace>
+            </componente>
+            <componente>
+               <tipo>ram</tipo>
+               <nombre>Kingston FURY 2x8GB 3200 CL16</nombre>
+               <precio>69,38€</precio>
+               <enlace>https://www.pccomponentes.com</enlace>
+            </componente>
+         </componentes>
+      </template>
+   </category>
+</aiml>
