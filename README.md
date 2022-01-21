@@ -8,6 +8,7 @@ This chatbot is made with ML4K and is dedicated to classifying 3 categories of p
 ## StockHelper-AIML
 This chatbot is made with AIML on pandorabots **(Not compatible with AIML standard because it has html labels)**
 Is also dedicated to classifying the same 3 categories of pc componentes but with subcategories based on price and it has navigation.
+
 ![image](https://user-images.githubusercontent.com/60214254/149680219-4e62d869-7436-4b96-923e-6717c4fd57f3.png)
 
 ## StockHelper-Combined
